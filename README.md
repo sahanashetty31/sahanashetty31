@@ -1,6 +1,5 @@
 ### Sahana S Shetty
 
-### Deep learning/Machine learning python developer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahanashetty31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
