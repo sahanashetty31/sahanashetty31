@@ -1,5 +1,6 @@
-### Sahana S Shetty
+## Sahana S Shetty
 
+**Looking for job opportunities in the field of deep learning, computer vision, and machine learning.**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahanashetty31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
