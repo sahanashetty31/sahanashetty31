@@ -16,4 +16,4 @@
   * Vegetable sorting:[vegetable-classification](https://github.com/sahanashetty31/vegetable-classification)
   
   
-  * Youtube channel : https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA
+* Youtube channel : https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA
