@@ -1,7 +1,5 @@
 ## Sahana S Shetty
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahanashetty31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sahanashetty31&count_private=true&include_all_commits=true&theme=onedark" />
@@ -17,4 +15,4 @@
   
   
 * Youtube channel : https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA
-* Instagram : https://instagram.com/sahana__.shetty/
+
